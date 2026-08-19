@@ -1,0 +1,13 @@
+{
+  "schema": "storeamo.app.v1",
+  "id": "miarchivos",
+  "name": "MiArchivos",
+  "tagline": "Entendé qué ocupa espacio y cómo está organizado.",
+  "description": "Análisis local de archivos y almacenamiento con salida portable.",
+  "category": "Herramientas",
+  "featured": false,
+  "status": "development",
+  "supported_platforms": ["android", "windows", "macos", "linux"],
+  "store": {"screenshots": []},
+  "verification": {"policy": "storeamo-default-v1", "required_checks": ["tests", "integrity"]}
+}
